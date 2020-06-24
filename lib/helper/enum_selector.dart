@@ -1,0 +1,7 @@
+enum TypeSelector{
+  NEWDEBT,
+  PAID ,
+  NOTPAY,
+  NOTFINISH,
+  OVERTHEDEADLINE
+}
